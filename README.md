@@ -25,8 +25,6 @@ This is a hands-on network design project for a hotel management system, created
 - `hotel_network_design.pkt`: Main Cisco Packet Tracer file
 - `screenshot.png`: Visual representation of the network topology
 
-## 📷 Screenshot
-![Network Topology](screenshot.png)
 
 ## ✍️ Author
 
